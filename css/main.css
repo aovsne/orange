@@ -1,0 +1,152 @@
+* {
+	font-family: 'Raleway', sans-serif;
+}
+body{
+	margin:0;
+}
+nav{
+	background-color:#fe7e00;
+	border-color:5px solid #e06e18;
+	color:#ffedc4;
+	height:100px;
+	width:100%;
+}
+nav div.left{
+	margin:0 0 0 120px;
+	padding-top:20px;
+	display:inline-block;
+	
+}
+nav .left img{
+	height:40px;
+	width:60px;
+	margin-right:10px;
+	margin-top:;
+}
+
+span.ori {
+	font-size:40px;
+	font-weight:bold;
+	
+
+}
+nav span{
+	font-size:40px;
+}
+nav .right{
+	color:#ffedc4;
+	float:right;
+	display:inline-block;
+	margin-top:40px;
+}
+nav .right ul{
+	margin:0;
+	display:inline-block;
+	
+}
+nav .right li{
+	display:inline-block;
+	padding-right:25px;
+}
+nav .right li a{
+	text-decoration:none;
+	color:#ffedc4;
+}
+.input input {
+	
+	border:none;
+	background-color:#f1eff0;
+	height:40px;
+	width:150px;
+	padding-left:20px;
+	margin-top:10px;
+	cursor:pointer;
+	text-align:center;
+
+
+}
+.input{
+	float:right;
+	padding-right:30px;
+
+}
+ .input img{
+	height:27px;
+	width:20px;
+	background-color:#f1eff0;
+	padding:5px 0 10px;
+	margin-top:10px;
+	position:absolute;
+	
+}
+
+.orange{
+	display:inline-block;
+	margin-top:150px;
+	width:40%;
+
+
+}
+.property{
+	display:inline-block;
+	float:right;
+	height:200px;
+	width:50%;
+	position:absolute;
+	top:300px;
+	left:450px;
+	margin-left:30px;
+
+}
+.property p button{
+	display:inline-block;
+}
+.property p{
+	font-size:30px;
+	line-height:1.5em;
+	color:#ffc107;
+}
+.property span.bold {
+	font-weight:bold;
+	color:#ff9800;
+}
+.property span.web {
+	color:#78cdca;
+	font-weight:bold;
+}
+button.quote {
+	background-color:#fb7f01;
+	padding:15px 50px;
+	border:none;
+	border-radius:4px;
+	color:white;
+	font-size:13px;
+	margin-right:25px;
+}
+ a button.quote {
+	text-decoration:none;
+	color:white;
+	cursor:pointer;
+}
+a button.studies {
+	text-decoration:none;
+	color:white;
+	cursor:pointer;
+}
+
+button.studies {
+	background-color:#78cdca;
+	padding:15px 30px;
+	border:none;
+	border-radius:4px;
+	color:white;
+	font-size:13px;
+	margin-right:20px;
+}
+footer {
+	background-color:#7accc8;
+	height:60px;
+	margin-top:80px;
+}
+
+
