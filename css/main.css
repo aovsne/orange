@@ -17,11 +17,13 @@ nav div.left{
 	display:inline-block;
 	
 }
+nav .left sub{
+	vertical-align:sub;
+	font-size:smaller;
+}
 nav .left img{
 	height:40px;
 	width:60px;
-	margin-right:10px;
-	margin-top:;
 }
 
 span.ori {
